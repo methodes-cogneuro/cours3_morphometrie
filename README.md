@@ -3,7 +3,7 @@
 Cliquez sur ce badge et attendez que l'environnement charge complètement.
 Vous pourrez ensuite accéder au notebook comme si vous aviez un environnement python sur votre machine.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PSY3018/cours3_morphometrie/master?filepath=Analyse%20morphom%C3%A9trique_PSY3018_01.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PSY3018/cours3_morphometrie/master?filepath=PSY3018_cours3_morphometrie.ipynb)
 
 # Installation
 Si vous désirez rouler le code sur votre machine, assurez-vous d'avoir les packages python requis
